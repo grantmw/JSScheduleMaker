@@ -1,0 +1,20 @@
+html {
+	background-color: red
+}
+
+.schedule-container {
+	background-color: gray;
+	width: 80%;
+	margin: auto;
+	padding: 30px;
+}
+
+/*lookup margin shorthand*/
+.row {
+	margin-top: 45px;
+	margin-bottom: 45px;
+}
+
+.start, .end {
+	border: 2px solid green;
+} 
